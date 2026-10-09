@@ -1,0 +1,6 @@
+{
+  "name": "Watch & Earn",
+  "description": "Watch video ads, complete daily check-ins, earn reward points, and withdraw cash via bKash and Nagad in BDT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
